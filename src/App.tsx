@@ -4,6 +4,7 @@ import { VideoBackground } from './components/VideoBackground';
 import { AudioPlayer } from './components/AudioPlayer';
 import { WeddingSections } from './components/WeddingSections';
 import { TouchSparkleCanvas } from './components/TouchSparkleCanvas';
+import { ScrollProgressBar } from './components/ScrollProgressBar';
 import { ThemeProvider, useTheme } from './context/ThemeContext';
 
 function AppContent() {
@@ -49,6 +50,9 @@ function AppContent() {
           : 'bg-[#FDFBF7] text-[#3A3530]'
       }`}
     >
+      {/* Thin, elegant golden progress bar at the top of the viewport */}
+      <ScrollProgressBar isOpened={isOpened} />
+
       {/* Interactive Touch & Swipe Sparkles (Smooth sparkles on every touch, swipe, and pointer move) */}
       <TouchSparkleCanvas />
 
