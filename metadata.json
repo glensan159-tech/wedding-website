@@ -1,0 +1,8 @@
+{
+  "name": "Glensan & Junah Joy Wedding Invitation",
+  "description": "Interactive wedding invitation featuring a realistic 3D envelope opening animation with sparkling golden effects, music, and prenup showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
