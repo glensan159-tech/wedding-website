@@ -189,8 +189,8 @@ export const AttireVisualizer: React.FC = () => {
         </h3>
         <p className="font-sans-body text-sm text-[#6E645D] leading-relaxed">
           We invite our cherished guests to celebrate with us in tones of{' '}
-          <strong className="text-[#B75B82] font-semibold">Romantic Pinks</strong> and{' '}
-          <strong className="text-[#7A3E9D] font-semibold">Royal Purples</strong>.
+          <strong className="text-[#B75B82] font-semibold">Pastel Pinks</strong> and{' '}
+          <strong className="text-[#7A3E9D] font-semibold">Mauves</strong>.
           Explore the interactive palette and animated outfit previews below.
         </p>
       </div>
