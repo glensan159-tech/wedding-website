@@ -171,7 +171,7 @@ export const Attire: React.FC = () => {
   const [femaleStyle, setFemaleStyle] = useState<'gown' | 'terno'>('gown');
   const [maleStyle, setMaleStyle] = useState<'polo' | 'barong' | 'suit'>('polo');
 
-  // Interactive Popup Modal State for Disclaimer & Sacred Ceremony Reverence
+  // Interactive Popup Modal State for Disclaimer & Wedding Ceremony Reverence
   const [activeInfoModal, setActiveInfoModal] = useState<'disclaimer' | 'reverence' | null>(null);
 
   const getFilteredSwatches = (filter: 'all' | 'pink' | 'purple' | 'sponsor') => {
@@ -236,7 +236,7 @@ export const Attire: React.FC = () => {
           }`}
         >
           <ShieldAlert className="w-3.5 h-3.5 text-[#EAA2B8] shrink-0" />
-          <span className="font-medium">Sacred Ceremony Reverence</span>
+          <span className="font-medium">Wedding Ceremony Reverence</span>
         </button>
       </div>
 
@@ -289,7 +289,7 @@ export const Attire: React.FC = () => {
                     <h3 className="font-serif-title text-base font-semibold leading-tight">
                       {activeInfoModal === 'disclaimer'
                         ? 'Attire Guide & Disclaimer'
-                        : 'Sacred Ceremony Reverence'}
+                        : 'Wedding Ceremony Reverence'}
                     </h3>
                     <p className="text-[10px] font-sans-body text-[#A6998E]">
                       {activeInfoModal === 'disclaimer'
@@ -383,7 +383,7 @@ export const Attire: React.FC = () => {
                 ) : (
                   <>
                     <p className="text-xs">
-                      Out of reverence for the sacred worship sanctuary at <strong>Iglesia Ni Cristo (Lokal ng Tisa)</strong>, please observe the following solemn protocols:
+                      Out of reverence for the chapel at <strong>Iglesia Ni Cristo (Lokal ng Tisa)</strong>, please observe the following solemn protocols:
                     </p>
 
                     <div className="space-y-2">
@@ -431,7 +431,7 @@ export const Attire: React.FC = () => {
                           <strong className={isDarkMode ? 'text-[#F7EFE6]' : 'text-[#3A3530]'}>
                             Ceremony Phones:
                           </strong>{' '}
-                          Phones must be surrendered upon church entry and will be safely returned after the sacred ceremony.
+                          Phones must be surrendered upon church entry and will be safely returned after the wedding ceremony.
                         </div>
                       </div>
                     </div>
