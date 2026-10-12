@@ -205,8 +205,8 @@ export const Attire: React.FC = () => {
           }`}
         >
           Guests are invited to celebrate in tones of{' '}
-          <strong className="text-[#EAA2B8] font-semibold">Romantic Pink</strong> and{' '}
-          <strong className="text-[#B784A7] font-semibold">Royal Purple</strong>, and Sponsors in{' '}
+          <strong className="text-[#EAA2B8] font-semibold">Pastel Pink</strong> and{' '}
+          <strong className="text-[#B784A7] font-semibold">Mauve</strong>, and Sponsors in{' '}
           <strong className="text-[#C2A379] font-semibold">Champagne & Neutrals</strong>.
         </p>
       </div>
@@ -375,8 +375,8 @@ export const Attire: React.FC = () => {
                         Color Motif:
                       </strong>{' '}
                       Guests wear shades of{' '}
-                      <strong className="text-[#EAA2B8]">Romantic Pink</strong> and{' '}
-                      <strong className="text-[#B784A7]">Royal Purple</strong>. Principal Sponsors (Ninongs & Ninangs) wear{' '}
+                      <strong className="text-[#EAA2B8]">Pastel Pink</strong> and{' '}
+                      <strong className="text-[#B784A7]">Mauve</strong>. Principal Sponsors (Ninongs & Ninangs) wear{' '}
                       <strong className="text-[#C2A379]">Champagne, Cream, Beige, or Nude</strong>.
                     </div>
                   </>
