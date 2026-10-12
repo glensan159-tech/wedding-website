@@ -1263,7 +1263,7 @@ export const WeddingSections: React.FC<WeddingSectionsProps> = ({ onReplayIntro 
                 badge: 'Sacred Reverence',
                 question: 'What is the policy for mobile phones during the church ceremony?',
                 answer:
-                  'In accordance with the sacred reverence of Iglesia Ni Cristo (Lokal ng Tisa), all mobile phones and electronic devices must be surrendered to the assigned locale church officers upon entering the chapel. They will be safely secured and tagged, and returned to you immediately after the ceremony. We invite everyone to be fully present with us in heart and spirit during our sacred holy matrimony.',
+                  'In accordance with the church reverence to the worship service, all mobile phones and electronic devices must be surrendered to the assigned locale church officers upon entering the chapel. They will be safely secured and tagged, and returned to you immediately after the ceremony. We invite everyone to be fully present with us in heart and spirit during the wedding ceremony.',
               },
               {
                 id: 'schedule',
@@ -1281,7 +1281,7 @@ export const WeddingSections: React.FC<WeddingSectionsProps> = ({ onReplayIntro 
                 badge: 'Motif Guide',
                 question: 'What is the official dress code and color motif?',
                 answer:
-                  'Our wedding motif is Romantic Pink and Royal Purple for guests, and neutral tones (Champagne, Cream, Soft Beige, and Nude) for Principal Sponsors. In reverence to the church sanctuary, ladies’ dresses must have sleeves and closed backs (floor-length or midi). Gentlemen may wear Barong Tagalog, a tailored suit, or a neat polo/dress shirt with slacks. Pure white or ivory gowns are reserved exclusively for the bride.',
+                  'Our wedding motif is Pastel Pink and Mauve for guests, and neutral tones (Champagne, Cream, Soft Beige, and Nude) for Principal Sponsors. In reverence to the church sanctuary, ladies’ dresses must have sleeves and closed backs (floor-length or midi). Gentlemen may wear Barong Tagalog, a tailored suit, or a neat polo/dress shirt with slacks. Pure white or ivory gowns are reserved exclusively for the bride.',
               },
               {
                 id: 'gifts',
