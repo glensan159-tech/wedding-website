@@ -93,7 +93,7 @@ export const ENTOURAGE_DATA = {
   ],
   littleOnes: {
     ringBearer: 'Zayne D. Jarloc',
-    flowerGirls: ['Zahara Scarlett D. Jarloc', 'Vonnalise D. Jarloc'],
+    flowerGirls: ['Zahara Scarlett D. Jarloc', 'Vonnalise D. Jarloc', 'Breech Jamaica M. Arellano'],
   },
 };
 
