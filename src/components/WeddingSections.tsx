@@ -1157,7 +1157,7 @@ export const WeddingSections: React.FC<WeddingSectionsProps> = ({ onReplayIntro 
             >
               Kindly confirm your attendance through our official Google Form on or before{' '}
               <strong className={isDarkMode ? 'text-[#F3EBE6]' : 'text-[#3A3530]'}>
-                October 15, 2026
+                October 31, 2026
               </strong>
               .
             </p>
@@ -1299,7 +1299,7 @@ export const WeddingSections: React.FC<WeddingSectionsProps> = ({ onReplayIntro 
                 badge: 'By Oct 15, 2026',
                 question: 'When is the deadline to RSVP?',
                 answer:
-                  'Kindly confirm your attendance using our official RSVP Google Form on or before October 15, 2026. This allows us to finalize our headcount and catering with both venues in a timely manner.',
+                  'Kindly confirm your attendance using our official RSVP Google Form on or before October 31, 2026. This allows us to finalize our headcount and catering with both venues in a timely manner.',
               },
             ].map((faq) => {
               const isOpen = !!openFaqIds[faq.id];
