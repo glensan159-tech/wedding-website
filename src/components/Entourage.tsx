@@ -90,7 +90,7 @@ export const ENTOURAGE_DATA = {
     'Nicole S. Trinidad',
     'Andrei Nicole E. Bulat-ag',
     'Arnie Rose C. Cosenas',
-    'Hazen Love S. Abo-abo',
+    'Hazen Love Abo-abo',
   ],
   littleOnes: {
     ringBearer: 'Zayne D. Jarloc',
