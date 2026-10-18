@@ -880,7 +880,7 @@ export const Entourage: React.FC = () => {
                               isDarkMode ? 'text-[#8A8095]' : 'text-[#9C8F84]'
                             }`}
                           >
-                            4 Members
+                            5 Members
                           </span>
                         </div>
                         <ol className="space-y-2.5">
