@@ -149,7 +149,7 @@ export const FloatingRsvpBubble: React.FC = () => {
                 isDarkMode ? 'text-[#C9BFD2]' : 'text-[#6E645D]'
               }`}
             >
-              Reserve your seat with us on or before October 15, 2026.
+              Reserve your seat with us on or before October 31, 2026.
             </p>
 
             {/* Compact CTA Row */}
