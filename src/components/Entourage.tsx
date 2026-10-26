@@ -50,7 +50,7 @@ export const ENTOURAGE_DATA = {
       'Gina T. Lozano',
       'Maricel C. Luague',
       'Hasmela A. Cataluña',
-      'Esterlita B. Aro',
+      'Estrella B. Aro',
     ],
   },
   honorAttendants: {
