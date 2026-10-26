@@ -122,7 +122,7 @@ export const FloatingRsvpBubble: React.FC = () => {
                   RSVP Reminder
                 </span>
                 <span className="text-[10px] font-semibold text-rose-500 font-sans-body">
-                  Due Oct 15
+                  Due Oct 31
                 </span>
               </div>
 
